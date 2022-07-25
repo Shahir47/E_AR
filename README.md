@@ -1,5 +1,5 @@
 # E_AR
-E_AR stands for Educative Augmented Reality. Its an AR application intends to help understand various educational concept with interactions. We designed an mobile application where a student can gain more access to selected textbook concepts. In this project two such scenarios are implemented which are a relative position of 
+E_AR stands for Educative Augmented Reality. Its an AR application intends to help understand various educational concept with interactions. We designed a mobile application where a student can gain more access to selected textbook concepts. In this project two such scenarios are implemented which are a relative position of 
 earth moon and sun in the solar system and a basic chemical reaction. 
 
 For live demonstration please follow this youtube link-->https://www.youtube.com/watch?v=PWAAMDzFvZg 
